@@ -1,4 +1,4 @@
-# 💻 CodeVerse - Full-Stack Coding Platform
+# 💻 Leetcode clone - Full-Stack Coding Platform
 
 A LeetCode-like platform built using the MERN stack, where users can solve programming problems, submit code, and watch solution videos. It supports authentication, role-based access, and asynchronous submission processing.
 
