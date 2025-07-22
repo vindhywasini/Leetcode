@@ -6,15 +6,13 @@ A LeetCode-like platform built using the MERN stack, where users can solve progr
 - 👥 User & Admin Authentication (JWT-based)
 - 🧠 Problem Solving + Code Submission Interface
 - 📹 Watch Solution Videos
-- 🔁 Background Submission Evaluation (via Redis Queue)
 - 🗄️ Admin Panel to Manage Problems, Users, and Submissions
 - 🌐 Frontend built with React + Vite and Redux Toolkit
 
 ## 🧰 Tech Stack
 **Frontend:** React + Vite, Redux  
 **Backend:** Node.js, Express  
-**Database:** MongoDB + Mongoose  
-**Queue/Caching:** Redis  
+**Database:** MongoDB + Mongoose, redish 
 **Other:** JWT, ESLint, Git
 
 ## 📦 Models
